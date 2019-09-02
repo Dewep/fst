@@ -1,0 +1,14 @@
+{
+  "name": "fst",
+  "version": "0.0.1",
+  "description": "Fast Text Search",
+  "main": "lib/fst.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dewep/fst.git"
+  },
+  "author": "MAIGRET Aurélien",
+  "license": "GNU3"
+}
