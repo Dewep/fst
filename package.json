@@ -3,12 +3,19 @@
   "version": "0.0.1",
   "description": "Fast Text Search",
   "main": "lib/fst.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Dewep/fst.git"
   },
   "author": "MAIGRET Aurélien",
-  "license": "GNU3"
+  "license": "GNU V3",
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^9.2.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
 }
